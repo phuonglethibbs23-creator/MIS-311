@@ -74,12 +74,16 @@ The project also includes visualizations such as:
 
 ## Repository Contents
 
-```
+```text
 MIS-311
 │
 ├── README.md
 ├── Student_Performance_EDA.ipynb
-└── 06_Student Perfomance.xlsx
+├── 06_Student Performance.xlsx
+└── images
+    ├── histogram.png
+    ├── boxplot.png
+    └── bar_chart.png
 ```
 
 ---
