@@ -89,3 +89,28 @@ MIS-311
 Le Thi Nha Phuong
 
 MIS311 – Business Analytics
+---
+
+## Data Visualizations
+
+### Distribution of Average Scores
+
+![Histogram](images/histogram.png)
+
+**Interpretation:** The average scores are approximately normally distributed, with most students scoring between 60 and 80.
+
+---
+
+### Distribution of Subject Scores
+
+![Boxplot](images/boxplot.png)
+
+**Interpretation:** Reading and Writing have slightly higher median scores than Mathematics. A few outliers are observed in all subjects.
+
+---
+
+### Average Score by Parental Education
+
+![Bar Chart](images/bar_chart.png)
+
+**Interpretation:** Students whose parents have Bachelor's or Master's degrees generally achieve higher average scores than those whose parents have lower education levels. 
