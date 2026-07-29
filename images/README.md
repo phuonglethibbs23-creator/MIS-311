@@ -14,4 +14,4 @@
 
 ### Average Score by Parental Education
 
-![Bar Chart](images/bar_chart.png)
+![Bar Chart](images/bar_chart.png). 
