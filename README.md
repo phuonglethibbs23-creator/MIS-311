@@ -1,10 +1,10 @@
-# 📊 Student Performance Exploratory Data Analysis
+#  Student Performance Exploratory Data Analysis
 
 Business Analytics Portfolio for MIS311 – Assignment 1
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a Student Performance dataset using Python.
 
@@ -12,7 +12,7 @@ The objective is to understand student academic performance through data cleanin
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 - Dataset: Student Performance
 - Number of observations: 199
@@ -31,7 +31,7 @@ Variables:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The following preprocessing steps were completed:
 
@@ -42,7 +42,7 @@ The following preprocessing steps were completed:
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Descriptive statistics were generated for all numerical variables.
 
@@ -54,7 +54,7 @@ The project also includes visualizations such as:
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - Reading scores have the highest average performance.
 - Mathematics has the lowest average score.
@@ -62,7 +62,7 @@ The project also includes visualizations such as:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -72,7 +72,7 @@ The project also includes visualizations such as:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
 MIS-311
