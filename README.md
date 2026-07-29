@@ -88,9 +88,13 @@ MIS-311
 
 ---
 
-**Author**
+## Author
 
-Le Thi Nha Phuong
+**Le Thi Nha Phuong**
+
+Business Analytics Student
+
+Eastern International University (EIU)
 
 MIS311 – Business Analytics
 ---
