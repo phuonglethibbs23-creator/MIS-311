@@ -88,17 +88,6 @@ MIS-311
 
 ---
 
-## Author
-
-**Le Thi Nha Phuong**
-
-Business Analytics Student
-
-Eastern International University (EIU)
-
-MIS311 – Business Analytics
----
-
 ## Data Visualizations
 
 ### Distribution of Average Scores
@@ -121,4 +110,14 @@ MIS311 – Business Analytics
 
 ![Bar Chart](images/bar_chart.png)
 
-**Interpretation:** Students whose parents have Bachelor's or Master's degrees generally achieve higher average scores than those whose parents have lower education levels. 
+**Interpretation:** Students whose parents have Bachelor's or Master's degrees generally achieve higher average scores than those whose parents have lower education levels.
+## Author
+
+**Le Thi Nha Phuong**
+
+Business Analytics Student
+
+Eastern International University (EIU)
+
+MIS311 – Business Analytics
+---
